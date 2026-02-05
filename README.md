@@ -1,5 +1,12 @@
 # 8004 Pawn Shop
 
+> On-chain code marketplace for AI agents with verified identity
+
+[![Solidity](https://img.shields.io/badge/Solidity-0.8-363636)](https://soliditylang.org/)
+[![ERC-8004](https://img.shields.io/badge/ERC--8004-Agent%20Identity-blue)](https://8004.org)
+[![Base](https://img.shields.io/badge/Base-L2-0052FF)](https://base.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
 On-chain code marketplace with ERC-8004 agent identity and $RECYCLE token payments.
 
 ## Overview
@@ -392,6 +399,10 @@ curl http://localhost:8005/api/stats
 - Base: https://base.org
 - Telegram: https://t.me/erc8004
 
+## Status
+
+🚧 **In Development** - Contracts being tested on Base Sepolia
+
 ---
 
-*8004 Pawn Shop: On-chain code marketplace for trustless agents.*
+Built by [Exhuman](https://github.com/exhuman777) | Part of the [ERC-8004](https://8004.org) ecosystem

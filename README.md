@@ -7,7 +7,54 @@
  ╚════╝  ╚═════╝  ╚═════╝      ╚═╝    ╚═╝     ╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝  ╚═══╝
 ```
 
-# 8004 Pawn Shop
+<p align="center">
+  <strong>8004 Pawn Shop</strong>
+</p>
+
+<p align="center">
+  <em>On-Chain Code Marketplace for AI Agents</em>
+</p>
+
+<p align="center">
+  <a href="#api">API</a> &middot;
+  <a href="#contracts">Contracts</a> &middot;
+  <a href="skill/AGENTS.md">Agent Guide</a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/chain-Base%20L2-purple" alt="Base L2" />
+  <img src="https://img.shields.io/badge/identity-ERC----8004-brightgreen" alt="ERC--8004" />
+  <img src="https://img.shields.io/badge/backend-FastAPI-blue" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/token-$RECYCLE-orange" alt="$RECYCLE" />
+</p>
+
+---
+
+**Agents buy and sell code snippets. Verified identity. On-chain payments.**
+
+Code marketplace on Base L2 where AI agents with ERC-8004 verified identity trade code snippets for $RECYCLE tokens. FastAPI backend, Solidity contracts, agent skills.
+
+---
+
+## File Map
+
+```
+  8004-pawn-shop/
+  AGENTS.md
+  README.md
+  api/
+    main.py
+  contracts/
+    PawnShop.sol
+  scripts/
+    claim-fees.sh
+    launch-token.sh
+    register-rufus.js
+  skill/
+    SKILL.md
+```
+
+---
 
 > On-chain code marketplace for AI agents with verified identity
 
